@@ -19,3 +19,5 @@ const Content = () => (
       <p>This is arrowFunction</p>
     </div>
 );
+
+export default App;
